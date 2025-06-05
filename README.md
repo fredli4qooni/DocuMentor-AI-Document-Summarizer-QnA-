@@ -41,7 +41,6 @@ Berikut adalah beberapa tampilan aplikasi DocuMentor AI:
 <summary><strong>▶️ Tampilan Utama (Klik untuk lihat)</strong></summary>
 <p align="center">
   <img src="docs/images/tampilan1.png" alt="Tampilan Utama DocuMentor AI" width="700"/>
-  <em>Tampilan antarmuka utama dengan opsi unggah dokumen di sidebar.</em>
 </p>
 </details>
 
@@ -49,7 +48,6 @@ Berikut adalah beberapa tampilan aplikasi DocuMentor AI:
 <summary><strong>▶️ Fitur Hasil Ringkasan (Klik untuk lihat)</strong></summary>
 <p align="center">
   <img src="docs/images/fitur_summary.png" alt="Contoh Ringkasan" width="700"/>
-  <em>Contoh ringkasan yang dihasilkan dari sebuah dokumen.</em>
 </p>
 </details>
 
@@ -57,7 +55,6 @@ Berikut adalah beberapa tampilan aplikasi DocuMentor AI:
 <summary><strong>▶️ Interaksi QnA (Klik untuk lihat)</strong></summary>
 <p align="center">
   <img src="docs/images/fitur_qna.png" alt="Contoh QnA" width="700"/>
-  <em>Pengguna bertanya dan mendapatkan jawaban berdasarkan konten dokumen.</em>
 </p>
 </details>
 
