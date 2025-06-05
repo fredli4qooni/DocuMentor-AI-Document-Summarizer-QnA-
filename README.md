@@ -76,6 +76,6 @@ Berikut adalah beberapa tampilan aplikasi DocuMentor AI:
 **Fredli4Qoni**
 
 [![GitHub](https://img.shields.io/badge/GitHub-fredli4qoni-blue?style=flat-square&logo=github)](https://github.com/fredli4qooni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fredli%20Agusta%20Qoni-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fredli-fourqoni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fredli%20Fourqoni-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fredli-fourqoni/)
 
 ---
