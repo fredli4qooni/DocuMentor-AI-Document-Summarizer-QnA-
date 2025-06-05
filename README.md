@@ -1,7 +1,7 @@
 # 🤖 DocuMentor AI: Document Summarizer & QnA Bot
 
 <p align="center">
-  <em>Asisten cerdas untuk meringkas dokumen panjang dan menjawab pertanyaan Anda berdasarkan.</em>
+  <em>Asisten cerdas untuk meringkas dokumen dan menjawab pertanyaan Anda .</em>
 </p>
 
 <p align="center">
